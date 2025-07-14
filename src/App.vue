@@ -1,3 +1,12 @@
 <template>
-  <h1>hello!</h1>
+  <RouterView />
 </template>
+
+<script setup>
+</script>
+
+<style>
+body {
+  font-family: sans-serif;
+}
+</style>
